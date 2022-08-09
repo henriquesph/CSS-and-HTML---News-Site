@@ -1,2 +1,3 @@
 # CSS and HTML - News Site
- HTML and CSS practice
+
+- building a news site with HTML and CSS
